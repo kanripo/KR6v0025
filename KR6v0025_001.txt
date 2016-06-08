@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:11.670922
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:07
 #+TITLE: 天竺國菩提達摩禪師論
 #+PROPERTY: CBETA_ID W02n0018b
 #+PROPERTY: ID KR6v0025
@@ -14,7 +14,7 @@
  ¶
 ¶
 
-錄文二¶
+* 錄文二¶
 ¶
 
 （前殘）¶
